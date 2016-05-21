@@ -1,0 +1,5 @@
+node_modules
+typings
+.idea
+Server_Api/node_modules
+Server_Api/.idea
